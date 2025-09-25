@@ -1,2 +1,2 @@
 # java-projects
-Java mini-projects demonstrating variables, loops, OOP, and problem-solving concepts for learning and portfolio purposes.
+Java projects focused on core programming, OOP, and logic — building skills for QA automation and development.
